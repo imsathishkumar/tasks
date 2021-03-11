@@ -1,0 +1,14 @@
+.container-fluid {
+    top:25%;
+    max-width: 1024px;
+  } 
+  .search-box{
+    margin-top: 2%;
+    margin-left: 43%;
+  }
+  h1{
+      text-align: center;
+  }
+  .list{
+      margin-right: 35px;
+  }
